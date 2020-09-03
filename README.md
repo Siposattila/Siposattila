@@ -9,7 +9,7 @@
 - ❤️ My favourite code editor is Visual Studio Code.
 
 ### 🎧 Oliver Heldens (always)
-[<img src="https://oliverheldens.com/wp-content/uploads/2020/05/VirtualRaveAThonSetEDC.gif" alt="Oliver Heldens" width="350" />](https://oliverheldens.com/)
+[<img src="https://oliverheldens.com/wp-content/uploads/2020/08/TV_WEBSITEHOMEPAGEGIF_ROYAL.gif" alt="Oliver Heldens" width="350" />](https://oliverheldens.com/)
 
 ### 🎧 Or classical music if I really need to pay attention
 
