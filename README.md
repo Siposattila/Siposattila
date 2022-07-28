@@ -1,4 +1,4 @@
-### Hi there, my name is Attila Sipos [My Website][website] 👋
+### Hi there, my name is Attila Sipos [My Website][website] (not available currently 😔) 👋
 
 ## I'm a Student and a Developer!
 
