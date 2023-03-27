@@ -7,7 +7,6 @@ I'm currently working at [SK Trend](https://sktrend.hu/).
 - 💀 JavaScript will be the cause of a catastrophic stroke.
 - ❤️ My favourite code editor is Neovim.
 
-### 🎧 Music I listen to
 [<img src="https://oliverheldens.com/wp-content/uploads/2018/06/OH_CHIMP_MUSIC.gif" alt="Oliver Heldens" width="350" />](https://oliverheldens.com/)
 
 <br />
