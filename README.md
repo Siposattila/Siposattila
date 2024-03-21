@@ -24,7 +24,7 @@ I'm currently working at [SK Trend](https://sktrend.hu/).
 <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Go" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-<img align="left" alt="Rust" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
+<img align="left" alt="Rust" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
