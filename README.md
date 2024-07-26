@@ -1,6 +1,6 @@
 ## Hi there, my name is Attila Sipos 👋
 I'm a student at [Óbuda University János Neumann Faculty of Informatics 🎒](https://uni-obuda.hu/).
-I'm currently working at [SK Trend](https://sktrend.hu/).
+I'm currently working at [Bosch](https://www.bosch.com).
 
 - 🔭 Main languages I work with are PHP, Golang, Rust, C++, C#, JavaScript and when I need to then I work with Java as well.
 - 👯 I really like to work in pair or in team.
