@@ -1,5 +1,5 @@
 ## Hi there, my name is Attila Sipos 👋
-I'm a student at [Óbuda University János Neumann Faculty of Informatics 🎒](https://uni-obuda.hu/).
+I'm teaching at [Óbuda University János Neumann Faculty of Informatics 🎒](https://uni-obuda.hu/).
 I'm currently working at [DynamO Pricing](https://www.dynamopricing.com/).
 
 - 🔭 Main languages I work with are PHP, Golang, Rust, C++, C#, JavaScript and when I need to then I work with Java as well.
