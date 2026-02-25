@@ -7,8 +7,6 @@ I'm currently working at [DynamO Pricing](https://www.dynamopricing.com/).
 - 💀 JavaScript will be the cause of a catastrophic stroke.
 - ❤️ My favourite code editor is Neovim.
 
-[<img src="https://oliverheldens.com/wp-content/uploads/2018/06/OH_CHIMP_MUSIC.gif" alt="Oliver Heldens" width="350" />](https://oliverheldens.com/)
-
 <br />
 
 &nbsp;
@@ -35,8 +33,6 @@ I'm currently working at [DynamO Pricing](https://www.dynamopricing.com/).
 <br />
 <br />
 <br />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=siposattila&show_icons=true&theme=dark&hide_border=true&locale=en" alt="siposattila" />
 
 [facebook]: https://www.facebook.com/attila.sipos.568
 [instagram]: https://www.instagram.com/siposattila1
